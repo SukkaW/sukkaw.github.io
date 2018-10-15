@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sukka
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://suka.js.org
+  * I am sukka (https://keybase.io/sukka) on keybase.
+  * I have a public key ASAps8h_jiXoVIcdO1yrP0dPKl4Tl3gWUkvNdwCzOldIzgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012029b3c87f8e25e854871d3b5cab3f474f2a5e13977816524bcd7700b33a5748ce0a",
+      "host": "keybase.io",
+      "kid": "012029b3c87f8e25e854871d3b5cab3f474f2a5e13977816524bcd7700b33a5748ce0a",
+      "uid": "782abbcfe74a552f144a0c2f177d8f19",
+      "username": "sukka"
+    },
+    "merkle_root": {
+      "ctime": 1539591388,
+      "hash": "69327e27c2104fc491799bb820d2fc3ccbee19098f068d32b4f62cb55e36cf347fa38667a04ff987ba72c20d2462fe0827d624ec626bf5a9744ac3277140ad06",
+      "hash_meta": "4914404b76711511271372afdb676bc2d0fb0f6518f952baff248cfb28f85b1f",
+      "seqno": 3795677
+    },
+    "service": {
+      "entropy": "BAq9QhyUF9jzBgKm0AouIe35",
+      "hostname": "suka.js.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.4"
+  },
+  "ctime": 1539591418,
+  "expire_in": 504576000,
+  "prev": "905403582887ba9da887c70aaf38c5f69ed43b6bb1b0906ce971ccf395dbea68",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKbPIf44l6FSHHTtcqz9HTypeE5d4FlJLzXcAszpXSM4Kp3BheWxvYWTESpcCCsQgkFQDWCiHup2oh8cKrzjF9p7UO2uxsJBs6XHM85Xb6mjEIJ0TOLzmeiPDvNglFSN2ZRFgyF9q1WKvWBDXcF6X5QVFAgHCo3NpZ8RAUcZTAKxAPVJ12pbfzrqZA5dopemWqF9PCc4no64ufoOr0algZGFWxxFzfXk1r8lXAvq5I/8kds0L+F0DNyTZCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINFYlB8ZDwizKB0edcnombOHCOewQe99yg2p1yd774dso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sukka
+
+==================================================================
